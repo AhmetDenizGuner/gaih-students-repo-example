@@ -2,6 +2,7 @@
 ![](img/newlogo.png)
 
 **Course Date:** 08.03.2021 
+
 **Name:** Ahmet Deniz  
 **Surname:** Güner 
 **Email:** ahmetdenizguner@gmail.com  
