@@ -20,5 +20,5 @@ Some python libraries
 ---
 
 ### Certification
-![](https://verified-bucket.s3.eu-central-1.amazonaws.com/cert/69297720581867.png)
+![](img/certificate.png)
 
